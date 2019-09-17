@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b6d8038d2d605422d86bc791239050b5
+timeCreated: 1537674553
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Arbutus
+  fontNames:
+  - Arbutus
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

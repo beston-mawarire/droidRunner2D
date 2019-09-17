@@ -1,0 +1,35 @@
+fileFormatVersion: 2
+guid: be0eab49385b5475ea9b16c941e69242
+timeCreated: 1537674554
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Asap
+  fontNames:
+  - Asap
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7e3eeb02a29744e4199a34c51e34325e, type: 3}
+  - {fileID: 12800000, guid: 7fe8da62b57f64cd49215fa05dd49177, type: 3}
+  - {fileID: 12800000, guid: 44c9deb2e24cc492982ad7c030b4e7cc, type: 3}
+  - {fileID: 12800000, guid: 022d07835bfb345ef8a7a7ec52093d26, type: 3}
+  - {fileID: 12800000, guid: 74a77c14186494a3ebaeb3ad14f06599, type: 3}
+  - {fileID: 12800000, guid: 5dc698571e50a42648e282079d3281dd, type: 3}
+  - {fileID: 12800000, guid: 1d39bee7c4e3f4d10b9cd1057782b4fa, type: 3}
+  - {fileID: 12800000, guid: 7739415853b1d4067846316b95c0a08c, type: 3}
+  - {fileID: 12800000, guid: 93adb8d8a7a2d4ab79deef48bb30558e, type: 3}
+  - {fileID: 12800000, guid: 9e96992a97dab4fc293a1e01c5b0f9ba, type: 3}
+  - {fileID: 12800000, guid: ae1d2c5a2c5d94c19a064b021c7b683d, type: 3}
+  - {fileID: 12800000, guid: ae1a110bde7214490aad42c1c08bd94d, type: 3}
+  - {fileID: 12800000, guid: ad1d38ae139a64a64859eca800ec1d15, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

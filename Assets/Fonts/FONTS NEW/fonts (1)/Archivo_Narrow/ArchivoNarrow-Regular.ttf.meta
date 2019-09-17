@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 1f6fcfef2ca924da6b789a8ae1a4259f
+timeCreated: 1537674550
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Archivo Narrow
+  fontNames:
+  - Archivo Narrow
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 047bb9dc345ed49a4976813b2e4a078c, type: 3}
+  - {fileID: 12800000, guid: 0cd2f2ce5b99a403b842edc40d84e9c5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

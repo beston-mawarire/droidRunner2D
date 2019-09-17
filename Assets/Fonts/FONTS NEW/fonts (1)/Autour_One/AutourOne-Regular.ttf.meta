@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a95b0a7ec2f0e4026aa560beab299fbf
+timeCreated: 1537674553
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Autour One
+  fontNames:
+  - Autour One
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

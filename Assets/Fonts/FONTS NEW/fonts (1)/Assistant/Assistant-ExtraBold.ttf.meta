@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: d96083f4a6788431fb8f0342cb347c1c
+timeCreated: 1537674554
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Assistant
+  fontNames:
+  - Assistant
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0a0b4636d35db435bbd8df411cc52d5e, type: 3}
+  - {fileID: 12800000, guid: 5617a0e6f0296462ba433f08bdf0d880, type: 3}
+  - {fileID: 12800000, guid: 4b2cf527d201e43d7ad9064bb857dced, type: 3}
+  - {fileID: 12800000, guid: acbd554a7e3b14f3cbaf7ee564d00ebd, type: 3}
+  - {fileID: 12800000, guid: 83feb13f008d142f89e9d8ab3e9d3887, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
